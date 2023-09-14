@@ -60,6 +60,16 @@
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
 </a>
 
+<!-- Documentation Section -->
+<h4><font size="+1" face="Tahoma">Collaboration:</font></h4>
+<p align="left">
+<a href="https://altassian.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
+</a>
+<a href="https://altassian.com" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/Chenwingu/code_base/raw/master/confluence-svgrepo-com.svg" width="40" height="40"/> 
+</a>
+
 <!-- Stats and GitHub activity -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenwingu&label=Profile views&color=0e75b6&style=flat" alt="chenwingu" /> </p>
 
