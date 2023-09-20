@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chenwi Ngu </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> is a high school teacher who has successfully transitioned to the dynamic field of DevOps and Cloud. He resides in Canada and is open to working on freelance projects. Feel free to reach out.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> is a teacher who has successfully transitioned to the dynamic field of DevOps and Cloud. He resides in Canada and is open to working on freelance projects. Feel free to reach out.</font></h3>
 
 
 <!-- GIF -->
