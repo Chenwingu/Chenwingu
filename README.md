@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chenwi Ngu </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> is an adaptable professional with a diverse background. He has successfully transitioned to the dynamic field of DevOps and Cloud, accumulating 5 years of experience. He resides in Canada and is open to working on freelance projects. Feel free to reach out.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> is a high school teacher who has successfully transitioned to the dynamic field of DevOps and Cloud. He resides in Canada and is open to working on freelance projects. Feel free to reach out.</font></h3>
 
 
 <!-- GIF -->
@@ -75,13 +75,13 @@
 
 - 🔭 I work on **DevOps, Containers, CI/CD, and Infrastructure as code**
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
-- 🌱 I’m actively developing my skill sets in **OpenShift, ArgoCD, Azure DevOps, and GitHub Actions equally**
+- 🌱 I’m actively developing my skill sets in **OpenShift, ArgoCD, Azure DevOps, and GitHub Actions** equally
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
 
-- 👨‍💻 Check out my hands-on learning and projects at [kodekloud-engineer.com](https://engineer.kodekloud.com/profile)
+- 👨‍💻 Check out my hands-on learning and projects at [kodekloud-engineer](https://engineer.kodekloud.com/profile)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[ngu@ctech247.onmicrosoft.com](mailto:ngu@ctech247.onmicrosoft.com)**
