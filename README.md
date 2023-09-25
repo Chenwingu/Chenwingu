@@ -1,5 +1,4 @@
 <!-- Header Section -->
-<img align="center" src="https://github.com/Chenwingu/front_end/blob/master/img_devops.JPG" width="642" height="292" />
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chenwi Ngu </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> is a teacher who has successfully transitioned to the dynamic field of DevOps and Cloud. Open to working on freelance projects. Feel free to reach out.</font></h3>
 
