@@ -70,7 +70,7 @@
 </a>
 
 <!-- Stats and GitHub activity -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenwingu&label=Profile views&color=0e75b6&style=flat" alt="chenwingu" /> </p>
+![visitors](https://vbr.wocr.tk/badge?page_id=Chenwingu.Chenwingu&color=00cf00)
 
 - 🔭 I work on **DevOps, Containers, CI/CD, and Infrastructure as code**
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
