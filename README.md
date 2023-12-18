@@ -81,6 +81,6 @@
 <p align="left">
 </p>
 
-- 👨‍💻 Check out my hands-on learning and projects at [kodekloud-engineer](https://engineer.kodekloud.com/profile)
+- 👨‍💻 Check out my hands-on learning and projects at [medium.com](https://medium.com/@chenwingu)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[ngu@ctech247.onmicrosoft.com](mailto:ngu@ctech247.onmicrosoft.com)**
