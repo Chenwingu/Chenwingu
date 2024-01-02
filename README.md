@@ -81,6 +81,6 @@
 <p align="left">
 </p>
 
-- 👨‍💻 Check out my hands-on learning and projects at [medium.com](https://medium.com/@chenwingu)
+- 👨‍💻 Check out my hands-on experience and projects at [medium.com](https://medium.com/@chenwingu) [Chenwi's Blog](https://chenwingu.hashnode.dev)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[ngu@ctech247.onmicrosoft.com](mailto:ngu@ctech247.onmicrosoft.com)**
