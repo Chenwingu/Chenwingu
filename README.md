@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chenwi Ngu </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, educator turned DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, transitioned from educator to DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="350" width="550" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
