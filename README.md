@@ -74,7 +74,7 @@
 
 - 🔭 I work on **DevOps, Containers, CI/CD, and Infrastructure as code**
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
-- 🌱 I’m actively developing my skill sets in **OpenShift, ArgoCD, Azure DevOps, and GitHub Actions** equally
+- 🌱 I’m actively developing my skill sets in **Azure DevOps, GCP and AI** equally
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
