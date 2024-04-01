@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> transitioned from educator to DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</font></h3>
 
 <!-- GIF -->
-<img align="right" height="350" width="550" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="350" width="550" src="https://github.com/Chenwingu/front_end/blob/master/AI_WriteDevelopmentTechnologies.gif" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and DevOps Tools:</font></h3>
