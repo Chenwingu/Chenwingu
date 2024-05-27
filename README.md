@@ -22,40 +22,59 @@
 </p>
 
 <!-- DevOps Tools/Technologies Section -->
-#### Devops Tools/Technologies
+#### DevOps Tools/Technologies
 <p>
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" width="75"/>
- <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" width="70"/>
- <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" width="95"/>
+ <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" width="70"/> 
+ <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" width="95"/> 
+ <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" width="100"/> <br>
+ <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="75"/>
+ <img alt="GitHub" src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" width="82"/> 
+ <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" width="75"/>
+ <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" width="120"/>
+ <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" width="100"/> 
+ <img alt="GitLab" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="85"/>
+</p>
+
+<!-- Operating System -->
+#### Operating System
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<!-- Database -->
+#### Database
+<p>
+  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <!-- Documentation Section -->
-<h4><font size="+1" face="Tahoma">Collaboration:</font></h4>
-<p align="left">
-<a href="https://altassian.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
-</a>
-<a href="https://altassian.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Chenwingu/code_base/raw/master/confluence-svgrepo-com.svg" width="40" height="40"/> 
-</a>
-
-<!-- Stats and GitHub activity -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chenwingu&label=Profile%20views&color=0e75b6&style=flat" alt="Chenwingu" /> </p>
-
-- 🔭 I work on **DevOps, Containers, CI/CD, and Infrastructure as code**
-- 👯 I’m looking to collaborate on **Cloud-native Projects**
-- 🌱 I’m actively developing my skill sets in **Azure DevOps, GCP and AI** equally
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
+#### Collaboration
+<p>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white" />
 </p>
 
-- 👨‍💻 Check out my hands-on experience and projects at [medium.com](https://medium.com/@chenwingu) [Chenwi's Blog](https://chenwingu.hashnode.dev)
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[ngu@ctech247.onmicrosoft.com](mailto:ngu@ctech247.onmicrosoft.com)**
+<!-- Stats and GitHub activity -->
+## GitHub Activity
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chenwingu&label=Profile%20views&color=0e75b6&style=flat" alt="Chenwingu" /> </p>
+
+<!-- Professional Development -->
+## Professional Development
+
+- 👯 I’m interested to collaborate on **AI, ML and Cloud-native Projects**
+- 🌱 Engaged in intensive self-study and hands-on training to prepare for industry-recognized certifications including **AWS, GCP, & Azure**
+
+<!-- Contact Section -->
+## Connect with me
+<p><a href="https://github.com/Chenwingu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://linkedin.com/in/chenwingu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@chenwingu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://chenwingu.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a> 
+</p>
+
 ---------
 <p align="center"><img height="125" width="250" src="https://github.com/Chenwingu/Chenwingu/blob/main/AI_Dev.gif" /> </p>
