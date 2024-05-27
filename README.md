@@ -1,61 +1,36 @@
 <!-- Header Section -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Glad to see you.</h1>
-<p>Welcome to my profile! </br> I'm <a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, transitioned from educator to DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</p>
+<p>Welcome to my profile! </br> I'm <a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, DevOps architect from <img src="https://github.com/Chenwingu/front_end/blob/master/cmr.png" width="13"/> <b>Bamenda, Cameroon</b>, currently living in <img src="https://github.com/Chenwingu/front_end/blob/master/can.png" width="13"/> <b>Alberta, Canada</b>. </p>
 
-<!-- Languages and Tools Section -->
+<!-- Skills Section -->
 
-<h3 align="left"><font size="+2" face="Verdana">Languages and DevOps Tools:</font></h3>
+ ## Skills
 
-<!-- Cloud Section -->
-<h4><font size="+1" face="Tahoma">Cloud Platforms:</font></h4>
-<p align="left">
-<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="70" height="70"/>
-</a>
-<a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="70" height="70"/>
-</a>
-<!-- Add more cloud-related tools here -->
+<!-- Cloud Platforms -->
+#### Cloud Platforms
+<p>
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" width="145"/>
 </p>
 
 <!-- Scripting Section -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="90" height="90"/>
-</a>
-<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
-<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="90" height="90"/>
-</a>
+#### Scripting/programming language
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="Shell Scripting with bash" src="https://img.shields.io/badge/Shell_Scripting_with_bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<!-- Technologies Section -->
-<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</a>
-<a href="https://ansible.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
-</a>
-<a href="https://terraform.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="55" height="55"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-</a>
-<a href="https://prometheus.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
-</a>
+<!-- DevOps Tools/Technologies Section -->
+#### Devops Tools/Technologies
+<p>
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+ <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+ <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+ <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" width="75"/>
+ <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" width="70"/>
+ <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" width="95"/>
+</p>
 
 <!-- Documentation Section -->
 <h4><font size="+1" face="Tahoma">Collaboration:</font></h4>
