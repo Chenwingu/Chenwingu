@@ -1,11 +1,9 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Chenwi Ngu </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a> transitioned from educator to DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</font></h3>
-
-<!-- GIF -->
-<img align="right" height="350" width="550" src="https://github.com/Chenwingu/Chenwingu/blob/main/AI_Dev.gif" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Glad to see you.</h1>
+<p>Welcome to my profile! </br> I'm <a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, transitioned from educator to DevOps Engineer. Open to working on freelance projects. Feel free to reach out.</p>
 
 <!-- Languages and Tools Section -->
+
 <h3 align="left"><font size="+2" face="Verdana">Languages and DevOps Tools:</font></h3>
 
 <!-- Cloud Section -->
@@ -84,3 +82,5 @@
 - 👨‍💻 Check out my hands-on experience and projects at [medium.com](https://medium.com/@chenwingu) [Chenwi's Blog](https://chenwingu.hashnode.dev)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[ngu@ctech247.onmicrosoft.com](mailto:ngu@ctech247.onmicrosoft.com)**
+---------
+<p align="center"><img height="125" width="250" src="https://github.com/Chenwingu/Chenwingu/blob/main/AI_Dev.gif" /> </p>
