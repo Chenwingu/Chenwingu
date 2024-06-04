@@ -1,6 +1,7 @@
 <!-- Header Section -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Glad to see you.</h1>
-<p>Welcome to my profile! </br> I'm <a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, DevOps architect from <img src="https://github.com/Chenwingu/front_end/blob/master/cmr.png" width="13"/> <b>Bamenda, Cameroon</b>, currently living in <img src="https://github.com/Chenwingu/front_end/blob/master/can.png" width="13"/> <b>Alberta, Canada</b>. </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+CHENWI+NGU;Cloud+DevOps+Enthusiast)](https://git.io/typing-svg)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub Profile.</h1>
+<p> </br> I'm <a href="https://www.linkedin.com/in/chenwingu/" target="_blank" rel="noreferrer">Chenwi</a>, DevOps architect from <img src="https://github.com/Chenwingu/front_end/blob/master/cmr.png" width="13"/> <b>Bamenda, Cameroon</b>, currently living in <img src="https://github.com/Chenwingu/front_end/blob/master/can.png" width="13"/> <b>Alberta, Canada</b>. </p>
 
 <!-- Skills Section -->
 
