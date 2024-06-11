@@ -96,4 +96,6 @@
 ---------
 <p align="center"><img height="125" width="250" src="https://github.com/Chenwingu/Chenwingu/blob/main/AI_Dev.gif" /> </p>
 
+<p align="center">&copy; 2022 <strong>CHENWI NGU</strong></p>
+
 </div>
