@@ -1,12 +1,12 @@
 <div align="center">
 <!-- Header Section -->
   <a href="https://github.com/Chenwingu">
-    <img src="https://github.com/Chenwingu/front_end/blob/master/ctech247_banner.gif" alt="MasterHead" width="1100">
+    <img src="https://github.com/Chenwingu/front_end/blob/master/ctech247_banner.gif" alt="MasterHead" width="1000">
   </a>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=500&color=59C8BB&width=400&lines&height=50&lines=Hello,+Nice+to+Meet+you...%F0%9F%98%83;I+am+CHENWI+NGU;Cloud+DevOps+Enthusiast)](https://git.io/typing-svg)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub Profile.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome to my GitHub profile</h1>
 
 ## 👤 About me
 
